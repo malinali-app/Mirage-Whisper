@@ -1,2 +1,3 @@
-# MirageML
-Deploy AI services within secure and resource-efficient cloud infrastructure
+# Mirage Whisper
+A runtime to load whisper model files (GGUF) without Linux containers/virtual machines.
+More security, less cost
